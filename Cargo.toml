@@ -22,7 +22,7 @@ documentation = "http://dckc.github.io/rust-sqlite3"
 license = "MIT"
 
 [lib]
-name = "sqlite3"
+name = "rust_sqlite3"
 
 [dependencies]
 bitflags = "^0.1.0"
