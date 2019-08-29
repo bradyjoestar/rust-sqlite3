@@ -79,7 +79,7 @@
 //! }
 //! ```
 
-#![crate_name = "sqlite3"]
+#![crate_name = "rust_sqlite3"]
 #![crate_type = "lib"]
 #![warn(missing_docs)]
 
